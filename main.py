@@ -13,7 +13,7 @@ from selenium.webdriver.common import by
 from selenium.webdriver.common.keys import Keys
 import indian_names
 import random
-from password_generator import PasswordGenerator
+from password_manager import PasswordGenerator
 import requests
 from selenium.webdriver.support.ui import Select
 import time
